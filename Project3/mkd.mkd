@@ -1,6 +1,0 @@
-v_j(X) = \mathbb{E}_{S_{t+1}}^j \left[ \mathcal{R}(S_{t+1}) + \gamma Q(S_{t+1}) \mid S_t = X \right]
-
-
-
-
-
